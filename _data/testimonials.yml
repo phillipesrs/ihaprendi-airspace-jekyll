@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: Lúcia Azevedo
+  title: Desbloqueadora de Sonhos
+  testimonial: "Tive a oportunidade de ser aluna, o que foi um divisor de águas para mim. Em um processo de busca de autoconfiança ao me expressar, consegui muitos aprendizados com as aulas, não só no inglês, mas em toda ajuda que me deram. Dedicação, criatividade, dinamismo e preparados em transformar os aprendizados em algo maior."
+  image: img/lucia-azevedo.jpg
+- name: Nathan Bortman
+  title: Analista de Processos
+  testimonial: "O objetivo da Ih, Aprendi! comigo foi muito maior: ensinar a me comunicar e com isso me permitir me conectar com outras pessoas. Parabéns pelo excelente trabalho!"
+  image: img/nathan-bortman.jpg
+- name: Ivan Todorov
+  title: Market & Liquid Risk and Capital Coordinator
+  testimonial: "Na Ih, Aprendi! fiz aula inglês durante alguns meses e foi impressionante a dedicação e o empenho que o professor teve ao montar as aulas, ele teve a sensibilidade de entender as minhas necessidades e moldar o curso para mim, como um alfaitate cria uma peça sob medida para um cliente!"
+  image: img/ivan-todorov.jpg
+- name: Fernanda Caciani
+  title: Business Developer
+  testimonial: "Super Recomendo a Ih, Aprendi! Eles fazem milagres! Graças as nossas aulas, consegui me preparar para uma viagem internacional à negócios e descobri como ‘funciono’ em inglês. Contando os dias para retornarmos às aulas!"
+  image: img/fernanda-caciani.jpg
