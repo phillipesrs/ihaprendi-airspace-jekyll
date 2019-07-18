@@ -5,7 +5,7 @@ subtitle: Uma pequena história para você entender o campeonato que você está
 date: 2019-05-13 12:00:00
 author: Phillipe Soares
 ---
-# Eu vou te contar uma história que iniciou em 1998 e terminou em 2010.
+**Eu vou te contar uma história que iniciou em 1998 e terminou em 2010.**
 
 Em 98 eu tinha exatos 10 anos e era uma criança bem extrovertida. Eu fazia amizade fácil com as pessoas e nunca tive vergonha ou problemas em interagir socialmente. Nessa época eu já fazia natação, aulas de inglês e passava a tarde na escola, onde eu tava enfiado em todo o tipo de atividade extra.
 
